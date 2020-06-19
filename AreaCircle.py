@@ -5,6 +5,9 @@ C = (2*pi*r)
 print ("\nThe Area of the Circle with Radius " + str(r) + " is:\n",A)
 print ("\nThe Circumference of the Circle with Radius " + str(r) + " is:\n",C)
 
+"""
+OUTPUT :
+
 Please enter the Radius of your Circle:
 2.5
 
@@ -13,3 +16,5 @@ The Area of the Circle with Radius 2.5 is:
 
 The Circumference of the Circle with Radius 2.5 is:
  15.707963267948966
+ 
+ """
